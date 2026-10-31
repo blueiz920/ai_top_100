@@ -1,0 +1,123 @@
+[
+  {
+    "path": "documents/originals/evidence_20261031/promotion_master.zip",
+    "url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/B-ulVcMRgNHbtfLjVugzvw.zip",
+    "source": "홍보라 질문2, 2026-10-31 11:47",
+    "also_shared": "홍보라 질문3 재공유",
+    "bytes": 67727,
+    "sha256": "f7f8f86a226704279ae233e718a0812ca3178e0ca6acf8b4b9c0cea9d70366f1",
+    "members": [
+      {
+        "path": "documents/originals/evidence_20261031/promotion_master/프로모션원장.html",
+        "bytes": 12429,
+        "sha256": "43b6c5826ae80f3890e4e39388957c3250dcda2d78a638a3cfc43a20354a4f30"
+      },
+      {
+        "path": "documents/originals/evidence_20261031/promotion_master/할인중복_보상쿠폰_기준.pdf",
+        "bytes": 71442,
+        "sha256": "7e009f70c2d69df7913b1883790ecc1ac6d3bc0e0262eb179069446074977c0f"
+      }
+    ]
+  },
+  {
+    "path": "documents/originals/evidence_20261031/promotion_posts.zip",
+    "url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/TLV6tPKcBzRIuVib6Mj6cw.zip",
+    "source": "홍보라 질문3, 2026-10-31 11:56",
+    "also_shared": "이민준 질문15 재공유",
+    "bytes": 7876963,
+    "sha256": "8e3c3f0175e77ee243d82e860ee632fe2b898903b666f7279e6fd8749f240050",
+    "members": [
+      {
+        "path": "documents/originals/evidence_20261031/promotion_posts/A07_post-status.docx",
+        "bytes": 37926,
+        "sha256": "47ef5d20cec29f2acc247bfc4e3c8e7516afb7d516099f17d38d1b49c9531463"
+      },
+      {
+        "path": "documents/originals/evidence_20261031/promotion_posts/A07_post_01.png",
+        "bytes": 1681098,
+        "sha256": "0745d6a475d2ec5177278f0a7c022524e6b3067c3277d5856fc065b812592715"
+      },
+      {
+        "path": "documents/originals/evidence_20261031/promotion_posts/A07_post_02.png",
+        "bytes": 1613763,
+        "sha256": "d79689db121e39d8b314fccda7d14cc41ebe74b77b94d77bad9541c812e6095d"
+      },
+      {
+        "path": "documents/originals/evidence_20261031/promotion_posts/A07_post_03.png",
+        "bytes": 1339222,
+        "sha256": "e95a35222966563c0d45e47bc3de1105353d965da5502c4d0638c506f3709326"
+      },
+      {
+        "path": "documents/originals/evidence_20261031/promotion_posts/A07_post_04.png",
+        "bytes": 1687312,
+        "sha256": "8c48871758c69dd5a4258c799a68dacbc1e43429b413f4b3db31fd992464a392"
+      },
+      {
+        "path": "documents/originals/evidence_20261031/promotion_posts/A07_post_05.png",
+        "bytes": 1490981,
+        "sha256": "8878e4677cf63e7f7a26d3a29b1bdb41c4c53ab281777fef42033c8128f71a98"
+      },
+      {
+        "path": "documents/originals/evidence_20261031/promotion_posts/A07_promotion-rules.docx",
+        "bytes": 37248,
+        "sha256": "cf848ec7fec322335a21ec20fff1b0005c7bec26f02f66eaa6747e9187674fcd"
+      }
+    ]
+  },
+  {
+    "path": "documents/originals/evidence_20261031/shipping_records.zip",
+    "url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/hlI1ZFiRXl4sgzAw6HF52Q.zip",
+    "source": "구방만 질문2, 2026-10-31 11:47",
+    "also_shared": "",
+    "bytes": 7259735,
+    "sha256": "4fda862d5da27d33c7296e9c747240f9b146c1c0107cdab44ccb05c83da4fe12",
+    "members": [
+      {
+        "path": "documents/originals/evidence_20261031/shipping_records/결항집하기록.xlsx",
+        "bytes": 12698,
+        "sha256": "bcff6e21ce3737c6c113c91006464269fe0c8685bb58b3c5aa050ec95acc4960"
+      },
+      {
+        "path": "documents/originals/evidence_20261031/shipping_records/기기촬영/C54_01.png",
+        "bytes": 1448613,
+        "sha256": "43adfe7605b258f70774512593204d53768cfbb74b9ce0be40909d6392daf2b1"
+      },
+      {
+        "path": "documents/originals/evidence_20261031/shipping_records/기기촬영/C54_02.png",
+        "bytes": 1454096,
+        "sha256": "a7b0eac56264047359e55002d4968d8d6001f9478cc85aeae56f8a7b79988a64"
+      },
+      {
+        "path": "documents/originals/evidence_20261031/shipping_records/기기촬영/C54_03.png",
+        "bytes": 1445586,
+        "sha256": "74909645bfa72d140c610ae1e857082f295b444f49bce544dddd14e5dbd2ec71"
+      },
+      {
+        "path": "documents/originals/evidence_20261031/shipping_records/기기촬영/C54_04.png",
+        "bytes": 1470941,
+        "sha256": "923dea87afda585d8c3a51640b473d8c933d299c1b39af70e7825f006163e728"
+      },
+      {
+        "path": "documents/originals/evidence_20261031/shipping_records/기기촬영/C54_05.png",
+        "bytes": 1492039,
+        "sha256": "eccea5f43d053564b4ad23a41cf51cba1f0e855dee8be384f939701cdbde02bf"
+      }
+    ]
+  },
+  {
+    "path": "documents/originals/evidence_20261031/carrier_contract.pdf",
+    "url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/l2R00nTdGBHA3FP2QVxKfg.pdf",
+    "source": "구방만 질문2, 2026-10-31 11:47",
+    "also_shared": "",
+    "bytes": 40569,
+    "sha256": "08a7719147be71b5031456c9565fc58f350e2152216274a04b1c4e585fe7dd6c"
+  },
+  {
+    "path": "documents/originals/evidence_20261031/consignment_contract.pdf",
+    "url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/VPaqTY6ACayEeUct0aT6aw.pdf",
+    "source": "홍이장 질문4, 2026-10-31 11:49",
+    "also_shared": "",
+    "bytes": 155880,
+    "sha256": "b9b4ad7ef4a3a80822240a991e77940f2ea6007be3c8dd410a3df7de8fd403ab"
+  }
+]

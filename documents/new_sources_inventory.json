@@ -1,0 +1,40 @@
+{
+  "checked_at_utc": "2026-10-31T02:34:22.404861+00:00",
+  "files": [
+    {
+      "path": "documents/originals/new_sources/MatemuULfW2nG1dnufufsA.xlsx",
+      "bytes": 9704,
+      "sha256": "e17a3093c14193fb0b0f29eae6a5e55f4b01549ef77e2cb5ceb8b312dc1c9694"
+    },
+    {
+      "path": "documents/originals/new_sources/Q4owkAQyT-xhxfMKTJ2wUw/C31_driver-notebook.png",
+      "bytes": 1386891,
+      "sha256": "56179414a5d30d1d02e01008baf66f98d61c697372e5453a0c9f064ccc7e373b"
+    },
+    {
+      "path": "documents/originals/new_sources/Q4owkAQyT-xhxfMKTJ2wUw/C31_handover-ledger.png",
+      "bytes": 1677200,
+      "sha256": "ed7a66a5edebc10743cf680baeee9ff107bcfcb85ff61d9518e37bca00e5e566"
+    },
+    {
+      "path": "documents/originals/new_sources/Q4owkAQyT-xhxfMKTJ2wUw.zip",
+      "bytes": 3039669,
+      "sha256": "b4e413fee7b8ed12ebc9d694fa146d4a1862fc09ef69e238678d97723e8d46be"
+    },
+    {
+      "path": "documents/originals/new_sources/tHHClVffN4f8jvA_vuOtuQ/온도기록계_관측기록.xlsx",
+      "bytes": 14921,
+      "sha256": "bf263ea0c72209b8cdd4299719ffb82dd72d65d784fdf527d27bfb91458f9f38"
+    },
+    {
+      "path": "documents/originals/new_sources/tHHClVffN4f8jvA_vuOtuQ/온도기록계_조회.html",
+      "bytes": 14873,
+      "sha256": "a1e5949b82c849c507cf60882e5fefe99afd62e491c039cdbd848ff06f9c680e"
+    },
+    {
+      "path": "documents/originals/new_sources/tHHClVffN4f8jvA_vuOtuQ.zip",
+      "bytes": 19011,
+      "sha256": "fc21e0d7eff66e5dbf3912010d1ca018e989af5757e754351af2e4c433cefe67"
+    }
+  ]
+}

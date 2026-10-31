@@ -1,0 +1,584 @@
+[
+  {
+    "id": "DOC-001",
+    "original_name": "산지캘린더_기상운영기준.pdf",
+    "path": "documents/originals/weather_policy.pdf",
+    "sha256": "ffa65ad34a24c1f1c67842551205bba3b884c7e7e598fbea969d0a8e5c1dd2f1",
+    "source": "이민준 2026-10-31 10:48 소개 ZIP, 사용자 첨부와 같은 이름의 로컬 다운로드 원본",
+    "attachment_identity": "첨부 포인터와 바이트 일치 여부는 미검증"
+  },
+  {
+    "id": "DOC-002",
+    "original_name": "산지_기상작황물류_사실일지.xlsx",
+    "path": "documents/originals/weather_facts.xlsx",
+    "sha256": "33be8f18662f420a99fd5948003e38b3cf764583a90e0a8775d5b2761b63255a",
+    "source": "이민준 2026-10-31 10:48 소개 ZIP, 사용자 첨부와 같은 이름의 로컬 다운로드 원본",
+    "attachment_identity": "첨부 포인터와 바이트 일치 여부는 미검증"
+  },
+  {
+    "path": "documents/originals/new_sources/MatemuULfW2nG1dnufufsA.xlsx",
+    "bytes": 9704,
+    "sha256": "e17a3093c14193fb0b0f29eae6a5e55f4b01549ef77e2cb5ceb8b312dc1c9694",
+    "id": "DOC-003",
+    "source": "홍이장 질문 3",
+    "original_name": "MatemuULfW2nG1dnufufsA.xlsx"
+  },
+  {
+    "path": "documents/originals/new_sources/Q4owkAQyT-xhxfMKTJ2wUw/C31_driver-notebook.png",
+    "bytes": 1386891,
+    "sha256": "56179414a5d30d1d02e01008baf66f98d61c697372e5453a0c9f064ccc7e373b",
+    "id": "DOC-004",
+    "source": "박민아 질문 2",
+    "original_name": "C31_driver-notebook.png"
+  },
+  {
+    "path": "documents/originals/new_sources/Q4owkAQyT-xhxfMKTJ2wUw/C31_handover-ledger.png",
+    "bytes": 1677200,
+    "sha256": "ed7a66a5edebc10743cf680baeee9ff107bcfcb85ff61d9518e37bca00e5e566",
+    "id": "DOC-005",
+    "source": "박민아 질문 2",
+    "original_name": "C31_handover-ledger.png"
+  },
+  {
+    "path": "documents/originals/new_sources/Q4owkAQyT-xhxfMKTJ2wUw.zip",
+    "bytes": 3039669,
+    "sha256": "b4e413fee7b8ed12ebc9d694fa146d4a1862fc09ef69e238678d97723e8d46be",
+    "id": "DOC-006",
+    "source": "박민아 질문 2",
+    "original_name": "Q4owkAQyT-xhxfMKTJ2wUw.zip"
+  },
+  {
+    "path": "documents/originals/new_sources/tHHClVffN4f8jvA_vuOtuQ/온도기록계_관측기록.xlsx",
+    "bytes": 14921,
+    "sha256": "bf263ea0c72209b8cdd4299719ffb82dd72d65d784fdf527d27bfb91458f9f38",
+    "id": "DOC-007",
+    "source": "박민아 질문 2",
+    "original_name": "온도기록계_관측기록.xlsx"
+  },
+  {
+    "path": "documents/originals/new_sources/tHHClVffN4f8jvA_vuOtuQ/온도기록계_조회.html",
+    "bytes": 14873,
+    "sha256": "a1e5949b82c849c507cf60882e5fefe99afd62e491c039cdbd848ff06f9c680e",
+    "id": "DOC-008",
+    "source": "박민아 질문 2",
+    "original_name": "온도기록계_조회.html"
+  },
+  {
+    "path": "documents/originals/new_sources/tHHClVffN4f8jvA_vuOtuQ.zip",
+    "bytes": 19011,
+    "sha256": "fc21e0d7eff66e5dbf3912010d1ca018e989af5757e754351af2e4c433cefe67",
+    "id": "DOC-009",
+    "source": "박민아 질문 2",
+    "original_name": "tHHClVffN4f8jvA_vuOtuQ.zip"
+  },
+  {
+    "path": "documents/originals/pending_sources/experience/B55-01.png",
+    "bytes": 6405684,
+    "sha256": "c946e9b226ba025c9e827569a732bdb93de465a7f530aa427e70e17d4c563722",
+    "source_url": null,
+    "id": "DOC-010"
+  },
+  {
+    "path": "documents/originals/pending_sources/experience/B55-02.png",
+    "bytes": 6492783,
+    "sha256": "4df518a55e200e748e38ea50ac405fb07613aa90807d0825a5d449d0ef70f0e7",
+    "source_url": null,
+    "id": "DOC-011"
+  },
+  {
+    "path": "documents/originals/pending_sources/experience.zip",
+    "bytes": 12902588,
+    "sha256": "2559b422f63b9a5f6d2f8d1e51e5169bc301fd7a8b1d5c59634bdaf8e1f655d0",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/mD9Z9ob30jaT111iWMF4fg.zip",
+    "id": "DOC-012"
+  },
+  {
+    "path": "documents/originals/pending_sources/lot/로트원장.html",
+    "bytes": 33255,
+    "sha256": "f63d610b21a166a30e8b0c9e3659f9fa6d136eff02c44175f651ebc17105eb62",
+    "source_url": null,
+    "id": "DOC-013"
+  },
+  {
+    "path": "documents/originals/pending_sources/lot/출고검사성적서_팩스사본_KD-HGL-370624-01.pdf",
+    "bytes": 31932,
+    "sha256": "f6fd7f9ffac2a710f8f3ba72d7f3ac8cad78d1a4bd63e4d9144d26199e9d5782",
+    "source_url": null,
+    "id": "DOC-014"
+  },
+  {
+    "path": "documents/originals/pending_sources/lot.zip",
+    "bytes": 40964,
+    "sha256": "1daf9c36e27edd2895e2570a51b5d10ef8e920b818087cb83baba04a7ce4c6ff",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/5qStcfJN45yTNkUI8SYD0w.zip",
+    "id": "DOC-015"
+  },
+  {
+    "path": "documents/originals/pending_sources/operations.pdf",
+    "bytes": 161407,
+    "sha256": "c445015e740d17367a4bfa5775826d2c11b734c906122de27c87c7a1069b0584",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/pysSXW5mY9eWWv6tMsrihA.pdf",
+    "id": "DOC-016"
+  },
+  {
+    "path": "documents/originals/pending_sources/privacy.html",
+    "bytes": 510472,
+    "sha256": "3594c55cedaef9fafa4e343d5f635884312e3370730dea39c6b6febde59fc221",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/LpLUt34eYoT64SKCMlBpvg.html",
+    "id": "DOC-017"
+  },
+  {
+    "path": "documents/originals/pending_sources/refund.html",
+    "bytes": 506443,
+    "sha256": "f1457de34501559d9972ff628aa657d40edb783f8ccccf5e658a088840683293",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/YpevY-GWzxt65De9PFNL4w.html",
+    "id": "DOC-018"
+  },
+  {
+    "id": "DOC-019",
+    "path": "documents/originals/promotion_contract.pdf",
+    "bytes": 116589,
+    "sha256": "8198d5ac719ec87887ea3654807ffeded4705df1a0f51e62226abee83a57cec5",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/md6uYs8t0bnETWJxprCKVg.pdf"
+  },
+  {
+    "id": "DOC-020",
+    "path": "documents/originals/promotion_code_art.png",
+    "bytes": 189961,
+    "sha256": "6556b9bcd2065447e6d4d1d15a37a193c1a94a2f057be8d8f817de59d1cdd894",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/5RvPtlzf4GEWM_rWYwIN0w.png"
+  },
+  {
+    "id": "DOC-021",
+    "path": "documents/originals/evidence_20261031/promotion_master.zip",
+    "bytes": 67727,
+    "sha256": "f7f8f86a226704279ae233e718a0812ca3178e0ca6acf8b4b9c0cea9d70366f1",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/B-ulVcMRgNHbtfLjVugzvw.zip",
+    "source": "홍보라 질문2, 2026-10-31 11:47"
+  },
+  {
+    "id": "DOC-022",
+    "path": "documents/originals/evidence_20261031/promotion_master/프로모션원장.html",
+    "bytes": 12429,
+    "sha256": "43b6c5826ae80f3890e4e39388957c3250dcda2d78a638a3cfc43a20354a4f30",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/B-ulVcMRgNHbtfLjVugzvw.zip",
+    "source": "홍보라 질문2, 2026-10-31 11:47"
+  },
+  {
+    "id": "DOC-023",
+    "path": "documents/originals/evidence_20261031/promotion_master/할인중복_보상쿠폰_기준.pdf",
+    "bytes": 71442,
+    "sha256": "7e009f70c2d69df7913b1883790ecc1ac6d3bc0e0262eb179069446074977c0f",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/B-ulVcMRgNHbtfLjVugzvw.zip",
+    "source": "홍보라 질문2, 2026-10-31 11:47"
+  },
+  {
+    "id": "DOC-024",
+    "path": "documents/originals/evidence_20261031/promotion_posts.zip",
+    "bytes": 7876963,
+    "sha256": "8e3c3f0175e77ee243d82e860ee632fe2b898903b666f7279e6fd8749f240050",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/TLV6tPKcBzRIuVib6Mj6cw.zip",
+    "source": "홍보라 질문3, 2026-10-31 11:56"
+  },
+  {
+    "id": "DOC-025",
+    "path": "documents/originals/evidence_20261031/promotion_posts/A07_post-status.docx",
+    "bytes": 37926,
+    "sha256": "47ef5d20cec29f2acc247bfc4e3c8e7516afb7d516099f17d38d1b49c9531463",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/TLV6tPKcBzRIuVib6Mj6cw.zip",
+    "source": "홍보라 질문3, 2026-10-31 11:56"
+  },
+  {
+    "id": "DOC-026",
+    "path": "documents/originals/evidence_20261031/promotion_posts/A07_post_01.png",
+    "bytes": 1681098,
+    "sha256": "0745d6a475d2ec5177278f0a7c022524e6b3067c3277d5856fc065b812592715",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/TLV6tPKcBzRIuVib6Mj6cw.zip",
+    "source": "홍보라 질문3, 2026-10-31 11:56"
+  },
+  {
+    "id": "DOC-027",
+    "path": "documents/originals/evidence_20261031/promotion_posts/A07_post_02.png",
+    "bytes": 1613763,
+    "sha256": "d79689db121e39d8b314fccda7d14cc41ebe74b77b94d77bad9541c812e6095d",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/TLV6tPKcBzRIuVib6Mj6cw.zip",
+    "source": "홍보라 질문3, 2026-10-31 11:56"
+  },
+  {
+    "id": "DOC-028",
+    "path": "documents/originals/evidence_20261031/promotion_posts/A07_post_03.png",
+    "bytes": 1339222,
+    "sha256": "e95a35222966563c0d45e47bc3de1105353d965da5502c4d0638c506f3709326",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/TLV6tPKcBzRIuVib6Mj6cw.zip",
+    "source": "홍보라 질문3, 2026-10-31 11:56"
+  },
+  {
+    "id": "DOC-029",
+    "path": "documents/originals/evidence_20261031/promotion_posts/A07_post_04.png",
+    "bytes": 1687312,
+    "sha256": "8c48871758c69dd5a4258c799a68dacbc1e43429b413f4b3db31fd992464a392",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/TLV6tPKcBzRIuVib6Mj6cw.zip",
+    "source": "홍보라 질문3, 2026-10-31 11:56"
+  },
+  {
+    "id": "DOC-030",
+    "path": "documents/originals/evidence_20261031/promotion_posts/A07_post_05.png",
+    "bytes": 1490981,
+    "sha256": "8878e4677cf63e7f7a26d3a29b1bdb41c4c53ab281777fef42033c8128f71a98",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/TLV6tPKcBzRIuVib6Mj6cw.zip",
+    "source": "홍보라 질문3, 2026-10-31 11:56"
+  },
+  {
+    "id": "DOC-031",
+    "path": "documents/originals/evidence_20261031/promotion_posts/A07_promotion-rules.docx",
+    "bytes": 37248,
+    "sha256": "cf848ec7fec322335a21ec20fff1b0005c7bec26f02f66eaa6747e9187674fcd",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/TLV6tPKcBzRIuVib6Mj6cw.zip",
+    "source": "홍보라 질문3, 2026-10-31 11:56"
+  },
+  {
+    "id": "DOC-032",
+    "path": "documents/originals/evidence_20261031/shipping_records.zip",
+    "bytes": 7259735,
+    "sha256": "4fda862d5da27d33c7296e9c747240f9b146c1c0107cdab44ccb05c83da4fe12",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/hlI1ZFiRXl4sgzAw6HF52Q.zip",
+    "source": "구방만 질문2, 2026-10-31 11:47"
+  },
+  {
+    "id": "DOC-033",
+    "path": "documents/originals/evidence_20261031/shipping_records/결항집하기록.xlsx",
+    "bytes": 12698,
+    "sha256": "bcff6e21ce3737c6c113c91006464269fe0c8685bb58b3c5aa050ec95acc4960",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/hlI1ZFiRXl4sgzAw6HF52Q.zip",
+    "source": "구방만 질문2, 2026-10-31 11:47"
+  },
+  {
+    "id": "DOC-034",
+    "path": "documents/originals/evidence_20261031/shipping_records/기기촬영/C54_01.png",
+    "bytes": 1448613,
+    "sha256": "43adfe7605b258f70774512593204d53768cfbb74b9ce0be40909d6392daf2b1",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/hlI1ZFiRXl4sgzAw6HF52Q.zip",
+    "source": "구방만 질문2, 2026-10-31 11:47"
+  },
+  {
+    "id": "DOC-035",
+    "path": "documents/originals/evidence_20261031/shipping_records/기기촬영/C54_02.png",
+    "bytes": 1454096,
+    "sha256": "a7b0eac56264047359e55002d4968d8d6001f9478cc85aeae56f8a7b79988a64",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/hlI1ZFiRXl4sgzAw6HF52Q.zip",
+    "source": "구방만 질문2, 2026-10-31 11:47"
+  },
+  {
+    "id": "DOC-036",
+    "path": "documents/originals/evidence_20261031/shipping_records/기기촬영/C54_03.png",
+    "bytes": 1445586,
+    "sha256": "74909645bfa72d140c610ae1e857082f295b444f49bce544dddd14e5dbd2ec71",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/hlI1ZFiRXl4sgzAw6HF52Q.zip",
+    "source": "구방만 질문2, 2026-10-31 11:47"
+  },
+  {
+    "id": "DOC-037",
+    "path": "documents/originals/evidence_20261031/shipping_records/기기촬영/C54_04.png",
+    "bytes": 1470941,
+    "sha256": "923dea87afda585d8c3a51640b473d8c933d299c1b39af70e7825f006163e728",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/hlI1ZFiRXl4sgzAw6HF52Q.zip",
+    "source": "구방만 질문2, 2026-10-31 11:47"
+  },
+  {
+    "id": "DOC-038",
+    "path": "documents/originals/evidence_20261031/shipping_records/기기촬영/C54_05.png",
+    "bytes": 1492039,
+    "sha256": "eccea5f43d053564b4ad23a41cf51cba1f0e855dee8be384f939701cdbde02bf",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/hlI1ZFiRXl4sgzAw6HF52Q.zip",
+    "source": "구방만 질문2, 2026-10-31 11:47"
+  },
+  {
+    "id": "DOC-039",
+    "path": "documents/originals/evidence_20261031/carrier_contract.pdf",
+    "bytes": 40569,
+    "sha256": "08a7719147be71b5031456c9565fc58f350e2152216274a04b1c4e585fe7dd6c",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/l2R00nTdGBHA3FP2QVxKfg.pdf",
+    "source": "구방만 질문2, 2026-10-31 11:47"
+  },
+  {
+    "id": "DOC-040",
+    "path": "documents/originals/evidence_20261031/consignment_contract.pdf",
+    "bytes": 155880,
+    "sha256": "b9b4ad7ef4a3a80822240a991e77940f2ea6007be3c8dd410a3df7de8fd403ab",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/VPaqTY6ACayEeUct0aT6aw.pdf",
+    "source": "홍이장 질문4, 2026-10-31 11:49"
+  },
+  {
+    "id": "DOC-041",
+    "path": "documents/originals/fish_weight.zip",
+    "bytes": 2766986,
+    "sha256": "b568b2c48aa247c7e4a333135e7fcaf3e1eb0fcb160b2abfcfa7dc2a0ece45b1",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/z2NxycW6tXpuTLaXUW9GsA.zip",
+    "source": "홍이장 질문5, 2026-10-31 12:14"
+  },
+  {
+    "id": "DOC-042",
+    "path": "documents/originals/fish_weight/B13-02.png",
+    "bytes": 1030236,
+    "sha256": "afe3c2990422dc28bad84c83e5c9709a7642be3a82f1d7e657c7372ea38154f1",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/z2NxycW6tXpuTLaXUW9GsA.zip",
+    "source": "홍이장 질문5, 2026-10-31 12:14"
+  },
+  {
+    "id": "DOC-043",
+    "path": "documents/originals/fish_weight/B13-03.png",
+    "bytes": 857700,
+    "sha256": "c9dec060330229befa8af2b2ce7d42c03eb696c080367e8a0f762a418bb98d4d",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/z2NxycW6tXpuTLaXUW9GsA.zip",
+    "source": "홍이장 질문5, 2026-10-31 12:14"
+  },
+  {
+    "id": "DOC-044",
+    "path": "documents/originals/fish_weight/B13-01.png",
+    "bytes": 944712,
+    "sha256": "2f4da65b9e202596233b1948efa2803269f56562b52a4581dacc98386713045d",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/z2NxycW6tXpuTLaXUW9GsA.zip",
+    "source": "홍이장 질문5, 2026-10-31 12:14"
+  },
+  {
+    "id": "DOC-045",
+    "path": "documents/originals/experience_pamphlet.zip",
+    "bytes": 18612759,
+    "sha256": "892bef98c90259d47f794c9ff51024357d6b00566bb7e9a7e6d83d545f04700e",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/-QhnujYhuarbyi-lt-APhw.zip",
+    "source": "김청년 질문4, 2026-10-31 12:18"
+  },
+  {
+    "id": "DOC-046",
+    "path": "documents/originals/experience_pamphlet/D36_pamphlet.pdf",
+    "bytes": 2158549,
+    "sha256": "a9232510701e6bd18d034cd3d9114c9fe6c1f1fa4ede56537754c64ba47a31d9",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/-QhnujYhuarbyi-lt-APhw.zip",
+    "source": "김청년 질문4, 2026-10-31 12:18"
+  },
+  {
+    "id": "DOC-047",
+    "path": "documents/originals/experience_pamphlet/D36_pamphlet.docx",
+    "bytes": 16522528,
+    "sha256": "af4c579332b8599c390444d7373a11f8a9b21234054cc5614e0e470a9e9dbcf1",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/-QhnujYhuarbyi-lt-APhw.zip",
+    "source": "김청년 질문4, 2026-10-31 12:18"
+  },
+  {
+    "id": "DOC-048",
+    "path": "documents/originals/escalation.pdf",
+    "bytes": 396050,
+    "sha256": "bc39cbc9a1a8cd762678119dac279bf0c582cc6e0dd2ddd2643c3e9590d80c59",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/EU_lxPp3nt1-UPJexhhZvg.pdf",
+    "source": "고길동 질문9 안전 사례 답변, 2026-10-31 12:25"
+  },
+  {
+    "id": "DOC-049",
+    "original_name": "ZvkCmo83NoMZZ9jC-261Xg.xlsx",
+    "path": "documents/originals/crop_disaster_20370630.xlsx",
+    "bytes": 10971,
+    "sha256": "4e5e59628ccb0c628246f5d2788e869433d95dfd8796d73fd5fb44ce8348286b",
+    "source": "박수복 2026-10-31 12:46 답변 직접 제공",
+    "url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/ZvkCmo83NoMZZ9jC-261Xg.xlsx",
+    "world_as_of": "2037-06-30"
+  },
+  {
+    "path": "documents/originals/partial_refund/xmm99WH91aVDFasnWXueaA.zip",
+    "bytes": 54475,
+    "sha256": "c2d651e8a3759d16b49aa07ec0d7cfc8e8aea5abb6b0307d8d5ceca82bfbde5b",
+    "id": "DOC-050",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/xmm99WH91aVDFasnWXueaA.zip",
+    "source": "고길동 질문11, 2026-10-31 12:46"
+  },
+  {
+    "path": "documents/originals/partial_refund/부분환불산식_박스비율임계표.pdf",
+    "bytes": 46362,
+    "sha256": "b6eccddae6fd51654f9bf1b430bef0084445bc2df256b106d7eeb2927a795bee",
+    "id": "DOC-051",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/xmm99WH91aVDFasnWXueaA.zip",
+    "source": "고길동 질문11, 2026-10-31 12:46"
+  },
+  {
+    "path": "documents/originals/partial_refund/부분환불산식_별표.xlsx",
+    "bytes": 13470,
+    "sha256": "17ecccf489b218780cead283e7494c19e1efaa5ed5ba612b25d31fbfbecd2b8d",
+    "id": "DOC-052",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/xmm99WH91aVDFasnWXueaA.zip",
+    "source": "고길동 질문11, 2026-10-31 12:46"
+  },
+  {
+    "id": "DOC-053",
+    "path": "documents/originals/fish_supply/DdTVsYgd8Z7paIu7CDy80g.xlsx",
+    "bytes": 10036,
+    "sha256": "b24c6fc5b8a47f6624a2a86c9c145656e19b8f25608ff802f8faee9781b6b294",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/DdTVsYgd8Z7paIu7CDy80g.xlsx",
+    "source": "홍이장 질문6, 2026-10-31 13:06",
+    "world_as_of": "2037-06-30"
+  },
+  {
+    "path": "documents/originals/delegation/6iTYICPyXjcgE67V6KauZQ.zip",
+    "bytes": 30799776,
+    "sha256": "9a9466a546516effc8a2d7d15851ba45cc79aa01b975d9c3b9bcecb2bce0041e",
+    "id": "DOC-054",
+    "source": "고길동 질문14, 2026-10-31 13:27",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/6iTYICPyXjcgE67V6KauZQ.zip",
+    "world_as_of": "2037-06-30"
+  },
+  {
+    "path": "documents/originals/delegation/B10-01.png",
+    "bytes": 6152598,
+    "sha256": "8d286b56fc4d415315f82f81f2925a84892b6e8c59df227272093a8bfd77349d",
+    "id": "DOC-055",
+    "source": "고길동 질문14, 2026-10-31 13:27",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/6iTYICPyXjcgE67V6KauZQ.zip",
+    "world_as_of": "2037-06-30"
+  },
+  {
+    "path": "documents/originals/delegation/B10-02.png",
+    "bytes": 6223942,
+    "sha256": "0710bff6ccd2fbb2996acaa51342785bf9c724179a59cb0a41dc9f5a8ad4a75e",
+    "id": "DOC-056",
+    "source": "고길동 질문14, 2026-10-31 13:27",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/6iTYICPyXjcgE67V6KauZQ.zip",
+    "world_as_of": "2037-06-30"
+  },
+  {
+    "path": "documents/originals/delegation/B10-03.png",
+    "bytes": 6219408,
+    "sha256": "37282ce9a458c9abaa4775241a97d814891dcd7bd0204761bc5ba34ded65caf3",
+    "id": "DOC-057",
+    "source": "고길동 질문14, 2026-10-31 13:27",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/6iTYICPyXjcgE67V6KauZQ.zip",
+    "world_as_of": "2037-06-30"
+  },
+  {
+    "path": "documents/originals/delegation/B10-04.png",
+    "bytes": 6235513,
+    "sha256": "af359c5ddd43a22ee8e8e83e4322fe670b96c2a24b4603271f72ddd820348d7d",
+    "id": "DOC-058",
+    "source": "고길동 질문14, 2026-10-31 13:27",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/6iTYICPyXjcgE67V6KauZQ.zip",
+    "world_as_of": "2037-06-30"
+  },
+  {
+    "path": "documents/originals/delegation/B10-05.png",
+    "bytes": 5959841,
+    "sha256": "d2b382b645fa00860dc5965bb781de2851f03869d1f9ce0043c285e52f4d4cc8",
+    "id": "DOC-059",
+    "source": "고길동 질문14, 2026-10-31 13:27",
+    "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/6iTYICPyXjcgE67V6KauZQ.zip",
+    "world_as_of": "2037-06-30"
+  },
+  {
+    "id": "DOC-060",
+    "original_name": "Yku9ZG2eH3PsliWC0108RA.html",
+    "path": "documents/originals/sku_catalog.html",
+    "bytes": 45004,
+    "sha256": "e9783f5ec544dd498ebf77cf3709d63bfb871b0481e23e2b4e55b9abc22b8462",
+    "source": "홍이장 2026-10-31 13:34 답변 제공",
+    "url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/Yku9ZG2eH3PsliWC0108RA.html",
+    "world_as_of": "2037-06-30"
+  },
+  {
+    "id": "DOC-061",
+    "original_name": "_uHi0aiIW__PSHbihlOOmQ.zip",
+    "path": "documents/originals/crop_season.zip",
+    "bytes": 7619623,
+    "sha256": "b0d04fd279ac2e5286f26654b61451dbbf7b421c7fcc1c98a42fd66d078dc4f5",
+    "source": "박수복 2026-10-31 13:42 답변 제공",
+    "url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/_uHi0aiIW__PSHbihlOOmQ.zip",
+    "world_as_of": "2037-06-30",
+    "members": [
+      {
+        "path": "documents/originals/crop_season/농산시즌캘린더.xlsx",
+        "bytes": 18017,
+        "sha256": "adfe391cc21af1f9c835ca0b62eee6d5de5b9e5d8789bd1a769f12f11e415148"
+      },
+      {
+        "path": "documents/originals/crop_season/모니터촬영/C23_01.png",
+        "bytes": 1545856,
+        "sha256": "1971936fd16cdaf0dcb3154098108ba7b32b282dbdfc689fb0285d23cf5957de"
+      },
+      {
+        "path": "documents/originals/crop_season/모니터촬영/C23_02.png",
+        "bytes": 1608696,
+        "sha256": "026946dc387b3607e4bcc42effc41a4fcd5c9c5e3d7be9e7748583da113620e7"
+      },
+      {
+        "path": "documents/originals/crop_season/모니터촬영/C23_03.png",
+        "bytes": 1515931,
+        "sha256": "b07359859e704f11dbb83e93bd70a2fc22af343d88f1d9c5f8aff75aa7848b14"
+      },
+      {
+        "path": "documents/originals/crop_season/모니터촬영/C23_04.png",
+        "bytes": 1524121,
+        "sha256": "c03cc584710d69cdf2af94d41cce725f1a168b19d9367648fdb2a3a9f2ccef9c"
+      },
+      {
+        "path": "documents/originals/crop_season/모니터촬영/C23_05.png",
+        "bytes": 1470408,
+        "sha256": "0d477be614f11dd602762fbb6aedca84778f59c3b655844b82756993eddc90e1"
+      }
+    ]
+  },
+  {
+    "id": "DOC-062",
+    "original_name": "Keze5-ihBAYJhBQV_i-aEw.html",
+    "path": "documents/originals/receipt_issuance.html",
+    "bytes": 503810,
+    "sha256": "166ac00daac34b4fdcc7eee1bff112783f1647d6a55406109e7d06462219b799",
+    "source": "이민준 2026-10-31 13:49 답변 제공",
+    "url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/Keze5-ihBAYJhBQV_i-aEw.html",
+    "world_as_of": "2037-06-30"
+  },
+  {
+    "id": "DOC-063",
+    "original_name": "MOJG57TnhmfcLE2ReTtbVg.html",
+    "path": "documents/originals/business_disclosure.html",
+    "bytes": 494294,
+    "sha256": "906d71483f667b5ed36652a7590c7f59029398ca7638a826d50ec29182376b12",
+    "source": "이민준 2026-10-31 답변 제공, 정확한 시각 미확인",
+    "url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/MOJG57TnhmfcLE2ReTtbVg.html"
+  },
+  {
+    "id": "DOC-064",
+    "original_name": "5ntdEl3V2kPEg8P1VLM-zQ.zip",
+    "path": "documents/originals/banner_campaign.zip",
+    "bytes": 11532069,
+    "sha256": "86802102e968ab9190e3501517067e26cc227ff18f93e063733d679752b8363f",
+    "source": "홍보라 2026-10-31 13:53 답변 제공",
+    "url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/5ntdEl3V2kPEg8P1VLM-zQ.zip",
+    "members": [
+      {
+        "path": "documents/originals/banner_campaign/D35_BN-01.png",
+        "bytes": 1921976,
+        "sha256": "fed2438eec503a00f07a47b13a7ebeaa21d096e5d50b2993c3e11edb6900e514"
+      },
+      {
+        "path": "documents/originals/banner_campaign/D35_BN-02.png",
+        "bytes": 2342561,
+        "sha256": "51c432addcb188ae1f86f3a767425d2caf067d52be208eae1580bc0408005304"
+      },
+      {
+        "path": "documents/originals/banner_campaign/D35_BN-03.png",
+        "bytes": 1890795,
+        "sha256": "c1fa70eb1582ca58961d4fd6230d7cbc3a90864ce15e8d26a5f999a4bcc7baa4"
+      },
+      {
+        "path": "documents/originals/banner_campaign/D35_BN-04.png",
+        "bytes": 2159920,
+        "sha256": "24ce8caa881aadfaa755269c9216aa1c8b95309a4d548d9611f3158cf05b30a6"
+      },
+      {
+        "path": "documents/originals/banner_campaign/D35_BN-05.png",
+        "bytes": 1792383,
+        "sha256": "ae03b25b091857ce1443ab66272d1303a32772870bf4353c0e6eb0792d6b8a62"
+      },
+      {
+        "path": "documents/originals/banner_campaign/D35_banner-admin-monitor.png",
+        "bytes": 1689407,
+        "sha256": "75ea71e0268200957094867ffd486f5111175e8aefb6f8257152872bbbf8a298"
+      }
+    ]
+  }
+]

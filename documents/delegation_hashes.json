@@ -1,0 +1,32 @@
+[
+  {
+    "path": "documents/originals/delegation/6iTYICPyXjcgE67V6KauZQ.zip",
+    "bytes": 30799776,
+    "sha256": "9a9466a546516effc8a2d7d15851ba45cc79aa01b975d9c3b9bcecb2bce0041e"
+  },
+  {
+    "path": "documents/originals/delegation/B10-01.png",
+    "bytes": 6152598,
+    "sha256": "8d286b56fc4d415315f82f81f2925a84892b6e8c59df227272093a8bfd77349d"
+  },
+  {
+    "path": "documents/originals/delegation/B10-02.png",
+    "bytes": 6223942,
+    "sha256": "0710bff6ccd2fbb2996acaa51342785bf9c724179a59cb0a41dc9f5a8ad4a75e"
+  },
+  {
+    "path": "documents/originals/delegation/B10-03.png",
+    "bytes": 6219408,
+    "sha256": "37282ce9a458c9abaa4775241a97d814891dcd7bd0204761bc5ba34ded65caf3"
+  },
+  {
+    "path": "documents/originals/delegation/B10-04.png",
+    "bytes": 6235513,
+    "sha256": "af359c5ddd43a22ee8e8e83e4322fe670b96c2a24b4603271f72ddd820348d7d"
+  },
+  {
+    "path": "documents/originals/delegation/B10-05.png",
+    "bytes": 5959841,
+    "sha256": "d2b382b645fa00860dc5965bb781de2851f03869d1f9ce0043c285e52f4d4cc8"
+  }
+]

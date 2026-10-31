@@ -1,0 +1,59 @@
+{
+  "checked_at_utc": "2026-10-31T02:49:04.058775+00:00",
+  "files": [
+    {
+      "path": "documents/originals/pending_sources/experience/B55-01.png",
+      "bytes": 6405684,
+      "sha256": "c946e9b226ba025c9e827569a732bdb93de465a7f530aa427e70e17d4c563722",
+      "source_url": null
+    },
+    {
+      "path": "documents/originals/pending_sources/experience/B55-02.png",
+      "bytes": 6492783,
+      "sha256": "4df518a55e200e748e38ea50ac405fb07613aa90807d0825a5d449d0ef70f0e7",
+      "source_url": null
+    },
+    {
+      "path": "documents/originals/pending_sources/experience.zip",
+      "bytes": 12902588,
+      "sha256": "2559b422f63b9a5f6d2f8d1e51e5169bc301fd7a8b1d5c59634bdaf8e1f655d0",
+      "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/mD9Z9ob30jaT111iWMF4fg.zip"
+    },
+    {
+      "path": "documents/originals/pending_sources/lot/로트원장.html",
+      "bytes": 33255,
+      "sha256": "f63d610b21a166a30e8b0c9e3659f9fa6d136eff02c44175f651ebc17105eb62",
+      "source_url": null
+    },
+    {
+      "path": "documents/originals/pending_sources/lot/출고검사성적서_팩스사본_KD-HGL-370624-01.pdf",
+      "bytes": 31932,
+      "sha256": "f6fd7f9ffac2a710f8f3ba72d7f3ac8cad78d1a4bd63e4d9144d26199e9d5782",
+      "source_url": null
+    },
+    {
+      "path": "documents/originals/pending_sources/lot.zip",
+      "bytes": 40964,
+      "sha256": "1daf9c36e27edd2895e2570a51b5d10ef8e920b818087cb83baba04a7ce4c6ff",
+      "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/5qStcfJN45yTNkUI8SYD0w.zip"
+    },
+    {
+      "path": "documents/originals/pending_sources/operations.pdf",
+      "bytes": 161407,
+      "sha256": "c445015e740d17367a4bfa5775826d2c11b734c906122de27c87c7a1069b0584",
+      "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/pysSXW5mY9eWWv6tMsrihA.pdf"
+    },
+    {
+      "path": "documents/originals/pending_sources/privacy.html",
+      "bytes": 510472,
+      "sha256": "3594c55cedaef9fafa4e343d5f635884312e3370730dea39c6b6febde59fc221",
+      "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/LpLUt34eYoT64SKCMlBpvg.html"
+    },
+    {
+      "path": "documents/originals/pending_sources/refund.html",
+      "bytes": 506443,
+      "sha256": "f1457de34501559d9972ff628aa657d40edb783f8ccccf5e658a088840683293",
+      "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/YpevY-GWzxt65De9PFNL4w.html"
+    }
+  ]
+}

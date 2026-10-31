@@ -1,0 +1,17 @@
+[
+  {
+    "path": "documents/originals/partial_refund/xmm99WH91aVDFasnWXueaA.zip",
+    "bytes": 54475,
+    "sha256": "c2d651e8a3759d16b49aa07ec0d7cfc8e8aea5abb6b0307d8d5ceca82bfbde5b"
+  },
+  {
+    "path": "documents/originals/partial_refund/부분환불산식_박스비율임계표.pdf",
+    "bytes": 46362,
+    "sha256": "b6eccddae6fd51654f9bf1b430bef0084445bc2df256b106d7eeb2927a795bee"
+  },
+  {
+    "path": "documents/originals/partial_refund/부분환불산식_별표.xlsx",
+    "bytes": 13470,
+    "sha256": "17ecccf489b218780cead283e7494c19e1efaa5ed5ba612b25d31fbfbecd2b8d"
+  }
+]
